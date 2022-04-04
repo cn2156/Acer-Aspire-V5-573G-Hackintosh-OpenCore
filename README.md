@@ -4,7 +4,11 @@
 
 主要参考：https://dortania.github.io/OpenCore-Install-Guide/
 
+---
+
 ## 免责声明：本 EFI 只用于交流使用，不负责使用过程中出现的任何问题，如硬盘数据丢失，硬件异常等。
+
+---
 
 ## 2022-04-04
 
